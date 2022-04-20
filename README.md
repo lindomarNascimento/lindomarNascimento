@@ -10,11 +10,9 @@
     <img aling="bottom" alt="html5" width="50px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"></img>
     <img aling="bottom" alt="sass" width="50px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"></img>
     <img aling="bottom" alt="gulp" width="50px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg"></img>
-    <img aling="bottom" alt="eslint" width="50px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original-wordmark.svg"></img>
     <img aling="bottom" alt="javascript" width="50px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></img>
     <img aling="bottom" alt="typescript" width="50px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></img>
     <img aling="bottom" alt="react" width="50px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"></img>
-    <img aling="bottom" alt="express" width="50px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"></img>
     <img aling="bottom" alt="gatsby" width="50px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-plain-wordmark.svg"></img>
     <img aling="bottom" alt="mongo db" width="60px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg"></img>
     <img aling="bottom" alt="firebase" width="50px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg"></img>
