@@ -1,10 +1,8 @@
 # Hello call me Sid 🦥🤖
 
- - 💖 Lover of Technoly and coding
+- 💖 Lover of Technoly and coding
 
- - 🎓 I have a degree in Systems Analysis and Development from Fatec
-
- </br>
+- 🎓 I have a degree in Systems Analysis and Development from Fatec
 
 ## 🔭 Most used technologies
 
@@ -24,8 +22,6 @@
     <img aling="bottom" alt="hiroku"width="50px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-plain-wordmark.svg"></img>
     <img aling="bottom" alt="aws" width="50px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg"></img>
  </div>
- 
- </br>
 
 ## 📚 I´m learning about...
 
@@ -33,8 +29,6 @@
    <img aling="bottom" alt="graphql" width="100px" height="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg"></img>
     <img aling="bottom" alt="next.js" width="100px" height="90px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg"></img>
 </div>
-
- </br>
 
 ## 📫 How to reach me:
 
@@ -49,6 +43,9 @@
     <img alt="linndomarnascimento17@gmail.com" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img>
   </a>
 </div>
+
+ </br>
+ </br>
 
 <div>
   <img height=180em 
