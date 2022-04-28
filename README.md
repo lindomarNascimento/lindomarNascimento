@@ -4,6 +4,11 @@
 
 - 🎓 I have a degree in Systems Analysis and Development from Fatec
 
+- 🐴 I really like chess even though I'm bad at the game
+
+- 🏊‍ I almost forgot, there's nothing like swimming, it's just amazing
+
+
 ## 🔭 Most used technologies
 
 <div>
