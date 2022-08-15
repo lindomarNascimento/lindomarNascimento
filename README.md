@@ -56,3 +56,5 @@
   <img height=180em 
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=lindomarNascimento&layout=compact&langs_count=7&theme=panda&border_radius=10px"></img>
 </div>
+
+<a href="https://app.daily.dev/hagnasid"><img src="https://api.daily.dev/devcards/e3243aec47c14a20862d50e684a84244.png?r=4cr" width="400" alt="Lindomar Nascimento's Dev Card"/></a>
